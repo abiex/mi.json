@@ -70,5 +70,17 @@
     "url": "http://119.235.249.58:1935/surautv/live/playlist.m3u8",
     "logo": "https://i.postimg.cc/tR1S3nvk/0012-19214427883-20210402-214440-0000.png",
     "kat": "mp"
+  },
+  {
+    "no": "13",
+    "url": "ruKxXJJzqCQ",
+    "logo": "https://i.postimg.cc/Jh0rKQkt/14-20210403-070458-0000.png",
+    "kat": "yt"
+  },
+  {
+    "no": "14",
+    "url": "http://wowza58.indostreamserver.com:1935/niagatv/live/playlist.m3u8",
+    "logo": "https://i.postimg.cc/2S4hrrcn/15-20210403-070458-0001.png",
+    "kat": "mp"
   }
 ]
