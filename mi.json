@@ -1,12 +1,17 @@
 [
   {
-    "nama": "mekah",
+    "no": "1",
     "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "logo": "https://i.postimg.cc/K8d3b1gC/1-20210402-125252-0000.png"
   },
   {
-    "nama": "madinah",
+    "no": "2",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "logo": "https://i.postimg.cc/k5K6g7QG/2-20210402-125252-0001.png"
+  },
+  {
+    "no": "3",
+    "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
+    "logo": "https://i.postimg.cc/QCHVcrnR/3-20210402-125252-0002.png"
   }
 ]
