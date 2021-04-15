@@ -82,5 +82,29 @@
     "url": "http://wowza58.indostreamserver.com:1935/niagatv/live/playlist.m3u8",
     "logo": "https://i.postimg.cc/2S4hrrcn/15-20210403-070458-0001.png",
     "kat": "mp"
+  },
+  {
+    "no": "15",
+    "url": "http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8",
+    "logo": "https://i.postimg.cc/SK5n9KKX/16-20210403-070458-0002.png",
+    "kat": "mp"
+  },
+  {
+    "no": "16",
+    "url": "GQil-ZKilIY",
+    "logo": "https://i.postimg.cc/hGxBC4rQ/17-20210403-074118-0000.png",
+    "kat": "yt"
+  },
+  {
+    "no": "17",
+    "url": "IxnQQjS0bAY",
+    "logo": "https://i.postimg.cc/x1nprfnb/18-20210403-074118-0001.png",
+    "kat": "yt"
+  },
+  {
+    "no": "18",
+    "url": "CjskkgIAe2s",
+    "logo": "https://i.postimg.cc/XqgF90hT/19-20210403-074118-0002.png",
+    "kat": "yt"
   }
 ]
