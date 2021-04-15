@@ -112,5 +112,17 @@
     "url": "https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8",
     "logo": "https://i.postimg.cc/CKhLRws4/0033-19800605003-20210415-190124-0000.jpg",
     "kat": "mp"
+  },
+  {
+    "no": "20",
+    "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
+    "logo": "https://i.postimg.cc/WbQxYVWw/0034-19802074400-20210415-193901-0000.jpg",
+    "kat": "mp"
+  },
+  {
+    "no": "21",
+    "url": "QyCE-wMN1u8",
+    "logo": "https://i.postimg.cc/Jh7rnHyP/0035-19806747646-20210415-211637-0000.jpg",
+    "kat": "yt"
   }
 ]
