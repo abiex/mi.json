@@ -34,5 +34,41 @@
     "url": "PAl9YoEgGfw",
     "logo": "https://i.postimg.cc/kGY6HvHR/5-20210402-160601-0004.png",
     "kat": "yt"
+  },
+  {
+    "no": "7",
+    "url": "http://vids.rodja.tv:1935/live/rodja/playlist.m3u8",
+    "logo": "https://i.postimg.cc/zB2mPmTg/7-20210402-160601-0006.png",
+    "kat": "mp"
+  },
+  {
+    "no": "8",
+    "url": "http://119.235.249.58:1935/wesaltv/live/playlist.m3u8",
+    "logo": "https://i.postimg.cc/0jCVHDTH/0008-19204741933-20210402-162236-0000.png",
+    "kat": "mp"
+  },
+  {
+    "no": "9",
+    "url": "http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8",
+    "logo": "https://i.postimg.cc/8cBTKXPQ/0013-19215704505-20210402-221711-0000.png",
+    "kat": "mp"
+  },
+  {
+    "no": "10",
+    "url": "http://119.82.224.75:1935/live/ahsantv/chunk.m3u8",
+    "logo": "https://i.postimg.cc/SK83f2xH/0010-19213089401-20210402-211001-0000.png",
+    "kat": "mp"
+  },
+  {
+    "no": "11",
+    "url": "http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8",
+    "logo": "https://i.postimg.cc/LXxTt2Lr/0011-19213457502-20210402-211948-0000.png",
+    "kat": "mp"
+  },
+  {
+    "no": "12",
+    "url": "http://119.235.249.58:1935/surautv/live/playlist.m3u8",
+    "logo": "https://i.postimg.cc/tR1S3nvk/0012-19214427883-20210402-214440-0000.png",
+    "kat": "mp"
   }
 ]
