@@ -163,14 +163,56 @@
   },
   {
     "no": "28",
-    "url": "http://158.69.119.235:8164/",
-    "logo": "https://i.postimg.cc/8PfjZ7LX/0024-19286102109-20210404-211303-0000.png",
+    "url": "http://radio.arroyyan.com/",
+    "logo": "https://i.postimg.cc/wBvwbSBD/0026-19286484013-20210404-212316-0000.png",
     "kat": "rd"
   },
   {
     "no": "29",
     "url": "http://live.radiomuslim.com/",
     "logo": "https://i.postimg.cc/7Yvky9C4/0025-19286262550-20210404-211733-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "30",
+    "url": "http://live.radiomedinah.com/",
+    "logo": "https://i.postimg.cc/VLgBQDpg/0027-19286634414-20210404-212717-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "31",
+    "url": "http://live2.indostreamserver.com:8070/",
+    "logo": "https://i.postimg.cc/Yq0j0Rjb/0028-19286789604-20210404-213139-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "32",
+    "url": "http://live.syaria.net:9306/",
+    "logo": "https://i.postimg.cc/rpZMBXNT/0029-19287025605-20210404-213747-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "33",
+    "url": "https://radioislamindonesia.com:7007/",
+    "logo": "https://i.postimg.cc/NF7VwRvX/0029-19287191062-20210404-214219-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "34",
+    "url": "http://live.syaria.net:9300/",
+    "logo": "https://i.postimg.cc/HxL4L5M5/0030-19287422808-20210404-214814-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "35",
+    "url": "http://radioislamindonesia.com:8014/",
+    "logo": "https://i.postimg.cc/t7GxFVsB/0031-19287712300-20210404-215613-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "36",
+    "url": "https://live2.indostreamserver.com/8028/stream/",
+    "logo": "https://i.postimg.cc/J7fj32gY/0032-19287874324-20210404-220036-0000.png",
     "kat": "rd"
   }
 ]
