@@ -130,5 +130,47 @@
     "url": "https://v4.siar.us/alukhuwah/live/playlist.m3u8",
     "logo": "https://i.postimg.cc/sDdMYRTS/0037-19811263284-20210415-224308-0000.jpg",
     "kat": "mp"
+  },
+  {
+    "no": "23",
+    "url": "https://radioislamindonesia.com:7002/",
+    "logo": "https://i.postimg.cc/PrVP4mLw/20-20210403-101516-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "24",
+    "url": "http://185.47.62.52:8000/",
+    "logo": "https://i.postimg.cc/gcDf1sHn/21-20210403-101516-0001.png",
+    "kat": "rd"
+  },
+  {
+    "no": "25",
+    "url": "http://live2.radiorodja.com/",
+    "logo": "https://i.postimg.cc/QMG4FKJ2/22-20210403-101516-0002.png",
+    "kat": "rd"
+  },
+  {
+    "no": "26",
+    "url": "http://whsh4u-panel.com:14007/stream",
+    "logo": "https://i.postimg.cc/jqm17jK4/0023-19285959131-20210404-210916-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "27",
+    "url": "http://158.69.119.235:8164/",
+    "logo": "https://i.postimg.cc/8PfjZ7LX/0024-19286102109-20210404-211303-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "28",
+    "url": "http://158.69.119.235:8164/",
+    "logo": "https://i.postimg.cc/8PfjZ7LX/0024-19286102109-20210404-211303-0000.png",
+    "kat": "rd"
+  },
+  {
+    "no": "29",
+    "url": "http://live.radiomuslim.com/",
+    "logo": "https://i.postimg.cc/7Yvky9C4/0025-19286262550-20210404-211733-0000.png",
+    "kat": "rd"
   }
 ]
